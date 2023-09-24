@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ralleyne531, I'm From NJ and I am currently an undergrad at Wake Forest University with a Computer Science Major
 - 👀 I’m interested in Web and Software Development, Hacking, Graphic Design, Gaming, Music, and Fashion
-- 🌱 I’m currently learning Web Development and good project outlining/methods. Additonally I am currently practicing in illustrator and working towards my major
-- 💞️ I’m looking to collaborate on Web Development mostly but also any and all projects that would improve my all around skills
-- 📫 How to reach me - right here on github! Also follow twitch @akaShidi, twitter and tiktok @rkalleyne_
+- 🌱 I’m currently working in Web Development, SWE and practicing good project outlining/structure.
+- 💞️ I’m looking to collaborate on Web Development mostly but also any and all projects that would improve all around skills
+- 📫 How to reach me - right here on github! 
 
 <!---
 ralleyne531/ralleyne531 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
